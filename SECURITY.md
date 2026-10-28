@@ -13,7 +13,7 @@ This repository contains an unofficial manual workaround, not a security product
 
 ## Reporting
 
-For a security issue in this repository, use the repository's GitHub private vulnerability reporting feature if available. Otherwise ask the maintainer for a private reporting channel without publishing exploit details or secrets. No private channel is guaranteed to be configured at initial publication. Ordinary workaround bugs can use a public issue with sanitized data.
+For a security issue in this repository, use [GitHub private vulnerability reporting](https://github.com/eShok93/displaylink-memory-workaround/security/advisories/new), enabled for this repository. Do not publish exploit details or secrets in public issues. Ordinary workaround bugs can use a public issue with sanitized data.
 
 DisplayLink's own driver defects belong with Synaptics/DisplayLink support. Do not attach raw support archives to public GitHub issues.
 
