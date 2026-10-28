@@ -1,0 +1,8 @@
+.DS_Store
+.serena/
+.local/
+*.log
+*.diag
+*.ips
+*.zip
+.env*
