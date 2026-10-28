@@ -59,7 +59,7 @@ See [evidence and limitations](docs/EVIDENCE.md), [troubleshooting](docs/TROUBLE
 
 Check the [official download page](https://www.synaptics.com/products/displaylink-graphics/downloads/macos) and release notes for a manufacturer fix. As checked on **October 28, 2026**, the official appcast still listed **17.0.24**. This is a dated observation, not an automatic update checker. Prefer a verified manufacturer fix when available.
 
-For the actual driver defect, add a sanitized reproduction to the [existing manufacturer thread](https://www.displaylink.org/forum/showthread.php?p=99661) or use the [official macOS issue-reporting process](https://support.displaylink.com/knowledgebase/articles/755301). A ready-to-copy [report draft](docs/UPSTREAM-REPORT.md) is included. It has not been submitted automatically.
+The sanitized observation is published in [GitHub tracking issue #1](https://github.com/eShok93/displaylink-memory-workaround/issues/1), including the measured result, screenshot, workaround and unresolved questions. This independent issue is not the manufacturer's official bug tracker. The [manufacturer report draft](docs/UPSTREAM-REPORT.md) remains available as a reference; no forum post has been submitted.
 
 GitHub issues in this repository are for this workaround and its documentation. We cannot patch the unavailable helper source. Do not open this macOS bug against DisplayLink's unrelated Linux EVDI project.
 
